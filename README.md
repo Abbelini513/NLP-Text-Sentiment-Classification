@@ -4,7 +4,7 @@
 
 This repository contains a project on sentiment analysis and text classification using various approaches to text processing. The repository includes the following files:
 
-- `Bondareva_HW1_NLP.ipynb`: A Jupyter Notebook with full data analysis (EDA), heuristic development, text vectorization, machine learning model training, and evaluation.
+- `NLP1.ipynb`: A Jupyter Notebook with full data analysis (EDA), heuristic development, text vectorization, machine learning model training, and evaluation.
 - `ml-bio-2024`: The dataset used for this project.
 
 > Note: The fine-tuned BERT model (`fine_tuned_bert`) could not be uploaded to this repository as it exceeds the file size limit.
@@ -92,4 +92,4 @@ The following libraries were used in this project:
     ```
 3. Open the Jupyter Notebook to run and analyze the code:
     ```bash
-    jupyter notebook Bondareva_HW1_NLP.ipynb
+    jupyter notebook NLP1.ipynb
