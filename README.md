@@ -84,7 +84,7 @@ The following libraries were used in this project:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/Abbelini513/NLP-Text-Sentiment-Classification.git
     ```
 2. Install the required libraries:
     ```bash
